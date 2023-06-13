@@ -1,7 +1,7 @@
 from setuptools import setup, find_namespace_packages
 
 setup(name='clean_folder',
-      version='1',
+      version='1.01',
       description='Sorting files in folder',
       url='https://github.com/OleksaSolo/Homework07',
       author='Oleksa Sol',
